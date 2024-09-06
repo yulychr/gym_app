@@ -1,43 +1,22 @@
-## About
+# Proyecto: GYM API
 
-This project was created with [express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript).
+## Descripcion
 
+Esta es una api creada para hacer un seguimiento de su peso y de sus rutinas.
 
-## Available Scripts
+## Funcionalidades
 
-### `npm run dev`
+Control del peso
+Regitro de Rutina de ejercicos
+Control de rutina de ejercicios
+Reportes por día, semana y mes
 
-Run the server in development mode.
+## Acceso al Proyecto
 
-### `npm test`
+## Tecnologías utilizadas
 
-Run all unit-tests with hot-reloading.
-
-### `npm test -- --testFile="name of test file" (i.e. --testFile=Users).`
-
-Run a single unit-test.
-
-### `npm run test:no-reloading`
-
-Run all unit-tests without hot-reloading.
-
-### `npm run lint`
-
-Check for linting errors.
-
-### `npm run build`
-
-Build the project for production.
-
-### `npm start`
-
-Run the production build (Must be built first).
-
-### `npm start -- --env="name of env file" (default is production).`
-
-Run production build with a different env file.
-
+Node.js
+MongoDB
+TypeScript
 
 ## Additional Notes
-
-- If `npm run dev` gives you issues with bcrypt on MacOS you may need to run: `npm rebuild bcrypt --build-from-source`. 
