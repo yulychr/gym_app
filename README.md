@@ -2,14 +2,13 @@
 
 ## Descripcion
 
-Esta es una api creada para hacer un seguimiento de su peso y de sus rutinas.
+This is an api created to track routines.
 
 ## Funcionalidades
 
-Control del peso
-Regitro de Rutina de ejercicos
-Control de rutina de ejercicios
-Reportes por día, semana y mes
+Exercise Routine Log
+Exercise routine control
+Reports by day, week and month
 
 ## Acceso al Proyecto
 
