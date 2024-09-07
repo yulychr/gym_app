@@ -20,12 +20,16 @@
     ],
     "exec": "./node_modules/.bin/ts-node --files -r tsconfig-paths/register ./src"
   },
-  "_moduleAliases": {
-    "@src": "dist"
-  },
   "engines": {
     "node": ">=8.10.0"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "description": "## Descripcion",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.6.1",
+    "save": "^2.9.0"
+  }
 }
